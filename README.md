@@ -18,6 +18,8 @@ I decided which programming language to choose and chose:
 First of all, I will implement the plugin for **Autodesk Revit**, **Autodesk Naviworks** and everything related to this software here.
 But soon I have another idea for projects in other areas.
 
+![](https://www.codewars.com/users/Setojan/badges/large) 
+
 ![](https://github-readme-stats.vercel.app/api?username=setojan&show_icons=true&theme=transparent&text_color=808080&title_color=813084&icon_color=813084&border_color=808080&custom_title=My%20stats&cache_seconds=1800&include_all_commits=true)
 
 ![](https://komarev.com/ghpvc/?username=setojan&label=VIEWS&style=for-the-badge&color=813084)
