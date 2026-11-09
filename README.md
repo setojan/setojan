@@ -20,6 +20,7 @@ But soon I have another idea for projects in other areas.
 
 ![](https://www.codewars.com/users/Setojan/badges/large) 
 
-![](https://github-readme-stats.vercel.app/api?username=setojan&show_icons=true&theme=transparent&text_color=808080&title_color=813084&icon_color=813084&border_color=808080&custom_title=My%20stats&cache_seconds=1800&include_all_commits=true)
+[![Set's GitHub stats](https://github-stats-extended.vercel.app/api?username=setojan&show_icons=true&bg_color=111111&icon_color=813084&title_color=813084&&text_color=555)](https://github.com/stats-organization/github-stats-extended)
 
 ![](https://komarev.com/ghpvc/?username=setojan&label=VIEWS&style=for-the-badge&color=813084)
+
