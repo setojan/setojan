@@ -11,9 +11,15 @@ I will be glad if there are like-minded people in the implementation of new proj
 Since there were a lot of ideas, but not a lot of skills, I chose this path. And for a long time
 I decided which programming language to choose and chose:
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="72" height="72" /></a>
-</p>
+development:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" height="64" width="64" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg" height="64" width="64" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" height="64" width="64" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="64" width="64" /> 
+          
+design:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" height="64" width="64" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-plain.svg" height="64" width="64" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-plain.svg" height="64" width="64" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" height="64" width="64" />
+          
+          
 
 First of all, I will implement the plugin for **Autodesk Revit**, **Autodesk Naviworks** and everything related to this software here.
 But soon I have another idea for projects in other areas.
